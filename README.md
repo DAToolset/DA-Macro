@@ -31,4 +31,4 @@ https://prodtool.tistory.com/70
 https://prodtool.tistory.com/84   
 
 8. DA# Macro 기능 시연 영상(YouTube)   
-https://prodtool.tistory.com/84   
+https://prodtool.tistory.com/85   

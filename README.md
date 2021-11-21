@@ -29,3 +29,6 @@ https://prodtool.tistory.com/70
 
 7. DA# Macro 설명글 전체 목차, 다운로드   
 https://prodtool.tistory.com/84   
+
+8. DA# Macro 기능 시연 영상(YouTube)   
+https://prodtool.tistory.com/84   

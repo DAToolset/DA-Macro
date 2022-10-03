@@ -9,6 +9,8 @@ English: https://www.en-core.com/eng/solution/solution2?language=eng
 DA#(Data Modeling tool) Macro using Excel VBA
 
 ### Usage
+전체 목차: https://prodskill.com/ko/da-macro-toc/   
+
 1. DA# Macro(1): DA#, DA# API, DA# Macro(매크로) 개요   
 https://prodskill.com/ko/da-macro-overview/   
 
